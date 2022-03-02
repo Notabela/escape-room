@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1646194761675,
+  "timestamp": 1646245598312,
   "index": "https://notabela.github.io/escape-room/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://notabela.github.io/escape-room/favicon.ico",
         "https://notabela.github.io/escape-room/index.html",
-        "https://notabela.github.io/escape-room/main.3f063506142a4ab8.js",
+        "https://notabela.github.io/escape-room/main.a05cd4b8c17255ab.js",
         "https://notabela.github.io/escape-room/manifest.webmanifest",
         "https://notabela.github.io/escape-room/polyfills.148a1ed7279bb7a9.js",
         "https://notabela.github.io/escape-room/runtime.30a6a0e298ba3b49.js",
-        "https://notabela.github.io/escape-room/styles.ef46db3751d8e999.css"
+        "https://notabela.github.io/escape-room/styles.c69b08d206ce5c86.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "https://notabela.github.io/escape-room/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://notabela.github.io/escape-room/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://notabela.github.io/escape-room/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://notabela.github.io/escape-room/index.html": "48e50d55ce64d0cb144625f5bf68584b738ca4ce",
-    "https://notabela.github.io/escape-room/main.3f063506142a4ab8.js": "ac152151a9c4fa1709ac0809f213d2f8b3cafbfa",
+    "https://notabela.github.io/escape-room/index.html": "7681630fa899b2c1bda213e7220894c88013af34",
+    "https://notabela.github.io/escape-room/main.a05cd4b8c17255ab.js": "a8e00c1e165e2c91c006d068e5e94f835a1a42d9",
     "https://notabela.github.io/escape-room/manifest.webmanifest": "c8ffb27d63ec52daaf4ce4da5d34aa3bf1e3182e",
     "https://notabela.github.io/escape-room/polyfills.148a1ed7279bb7a9.js": "973eb33150a7a6b41c19fb4aa7989cce9792dc74",
     "https://notabela.github.io/escape-room/runtime.30a6a0e298ba3b49.js": "004400aa8ef7dbf3c4944da09c2aed772ccfd729",
-    "https://notabela.github.io/escape-room/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://notabela.github.io/escape-room/styles.c69b08d206ce5c86.css": "bce7cd117c702c2f773580b82ed43a362e12bfb1"
   },
   "navigationUrls": [
     {
