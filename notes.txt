@@ -1,0 +1,7 @@
+ngx-bootstrap doc: https://valor-software.com/ngx-bootstrap/#/documentation
+bootstrap: https://getbootstrap.com/docs/5.0/forms/form-control/#file-input
+form: https://angular.io/guide/forms
+wizard form? : https://www.tutsmake.com/angular-13-multi-step-form-wizard-example/
+
+
+
